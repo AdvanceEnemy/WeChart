@@ -1,0 +1,7 @@
+D:\Work\Code\GitHub\WeChart\WeChart\weixinweb\bin\weixinweb.dll.config
+D:\Work\Code\GitHub\WeChart\WeChart\weixinweb\bin\weixinweb.dll
+D:\Work\Code\GitHub\WeChart\WeChart\weixinweb\bin\weixinweb.pdb
+D:\Work\Code\GitHub\WeChart\WeChart\weixinweb\bin\Newtonsoft.Json.dll
+D:\Work\Code\GitHub\WeChart\WeChart\weixinweb\obj\Debug\weixinweb.csprojResolveAssemblyReference.cache
+D:\Work\Code\GitHub\WeChart\WeChart\weixinweb\obj\Debug\weixinweb.dll
+D:\Work\Code\GitHub\WeChart\WeChart\weixinweb\obj\Debug\weixinweb.pdb

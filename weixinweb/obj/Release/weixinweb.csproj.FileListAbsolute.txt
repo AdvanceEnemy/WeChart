@@ -1,0 +1,6 @@
+D:\Users\szsong\Documents\Visual Studio 2013\Projects\MyTest\weixinweb\bin\weixinweb.dll.config
+D:\Users\szsong\Documents\Visual Studio 2013\Projects\MyTest\weixinweb\bin\weixinweb.dll
+D:\Users\szsong\Documents\Visual Studio 2013\Projects\MyTest\weixinweb\bin\weixinweb.pdb
+D:\Users\szsong\Documents\Visual Studio 2013\Projects\MyTest\weixinweb\obj\Release\weixinweb.dll
+D:\Users\szsong\Documents\Visual Studio 2013\Projects\MyTest\weixinweb\obj\Release\weixinweb.pdb
+D:\Users\szsong\Documents\Visual Studio 2013\Projects\MyTest\weixinweb\obj\Release\weixinweb.csprojResolveAssemblyReference.cache

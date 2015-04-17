@@ -1,0 +1,9 @@
+D:\Work\Code\GitHub\WeChart\WeChart\MyTest\bin\Debug\MyTest.exe.config
+D:\Work\Code\GitHub\WeChart\WeChart\MyTest\bin\Debug\MyTest.exe
+D:\Work\Code\GitHub\WeChart\WeChart\MyTest\bin\Debug\MyTest.pdb
+D:\Work\Code\GitHub\WeChart\WeChart\MyTest\bin\Debug\Arch.Data.dll
+D:\Work\Code\GitHub\WeChart\WeChart\MyTest\bin\Debug\AutoMapper.dll
+D:\Work\Code\GitHub\WeChart\WeChart\MyTest\bin\Debug\AutoMapper.xml
+D:\Work\Code\GitHub\WeChart\WeChart\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+D:\Work\Code\GitHub\WeChart\WeChart\MyTest\obj\Debug\MyTest.exe
+D:\Work\Code\GitHub\WeChart\WeChart\MyTest\obj\Debug\MyTest.pdb
